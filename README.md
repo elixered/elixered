@@ -18,4 +18,4 @@ I'm a Web Developer (MERN) and Mastering the art of Problem Solving 🐱‍💻<
 ---
 [![](https://visitcount.itsvg.in/api?id=elixered&icon=0&color=0)](https://visitcount.itsvg.in)
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/elixered/elixered/blob/output/github-contribution-grid-snake.svg)
