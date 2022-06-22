@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anand.tripathi632@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1amv4Z9i-45e_l_3Zdf_N9trX7DA0iz83/view](https://drive.google.com/file/d/1amv4Z9i-45e_l_3Zdf_N9trX7DA0iz83/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1amv4Z9i-45e_l_3Zdf_N9trX7DA0iz83/view)
 
 - ⚡ Fun fact **There are more hydrogen atoms in a teaspoon of water than there are teaspoons of water in the sea.**
 
